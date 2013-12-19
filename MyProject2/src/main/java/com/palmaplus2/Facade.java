@@ -7,7 +7,7 @@ import com.palmaplus.ocean.PlanarGraphics.Feature;
 
 //外观模式应用
 public class Facade {
-	
+
 	private FeatureS feature;
 	private Segmentclass segmentclass;
 	
